@@ -1,3 +1,3 @@
 buildService {
-buildCommands = "mvn install --settings settings.xml -B"
+     buildCommands = "mvn install --settings settings.xml -B"
 }
